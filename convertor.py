@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-
+#Comma-separated values 
 required_list_to_search = ['address', 'area_id', 'area_name', 'link', 'agent_name', 'agent_company']
 
 data = []
